@@ -1,16 +1,31 @@
-### Hi there 👋
 
-<!--
-**expired-pineapple/expired-pineapple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi , I'm Ruth<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<hr/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![wakatime](https://wakatime.com/badge/user/936f7950-82b3-456e-a029-4d5d12fb8bdc.svg)](https://wakatime.com/@936f7950-82b3-456e-a029-4d5d12fb8bdc)
+
+## GitHub Stats
+![Ruth's GitHub stats](https://github-readme-stats.vercel.app/api?username=expired-pineapple&show_icons=true&bg_color=00000000)
+
+
+## 🛠️ My Skills
+### 👉 Programming languages and Tools
+
+Web, Python, NodeJS, TS
+
+### Frameworks
+
+Prisma, Tailwindcss, Next js, Express, Django, FastAPI, Telegram API, Celery
+
+### Tools
+
+VScode, Github, Yarn, Git, NPM, Pypi, Azure, CI, Docker, Bash
+
+### Additional Experience
+
+Application Deployment, Database Management, REST API, NOSQL, GraphQL
+
+
+
+
