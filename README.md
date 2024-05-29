@@ -24,8 +24,8 @@ VScode, Github, Yarn, Git, NPM, Pypi, Azure, CI, Docker, Bash
 Application Deployment, Database Management, REST API, NOSQL, GraphQL
 
 ## GitHub Stats
-[![Ruth's GitHub stats](https://github-readme-stats.vercel.app/api?username=expired-pineapple&show_icons=true&bg_color=00000000)](https://github-readme-streak-stats.herokuapp.com/?user=expired-pineapple)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=expired-pineapple" alt="expired-pineapple" /></p>
 
 
 
