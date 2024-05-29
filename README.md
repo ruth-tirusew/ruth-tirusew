@@ -5,9 +5,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/936f7950-82b3-456e-a029-4d5d12fb8bdc.svg)](https://wakatime.com/@936f7950-82b3-456e-a029-4d5d12fb8bdc)
 
-## GitHub Stats
-![Ruth's GitHub stats](https://github-readme-stats.vercel.app/api?username=expired-pineapple&show_icons=true&bg_color=00000000)
-
 
 ## 🛠️ My Skills
 ### 👉 Programming languages and Tools
@@ -25,6 +22,9 @@ VScode, Github, Yarn, Git, NPM, Pypi, Azure, CI, Docker, Bash
 ### Additional Experience
 
 Application Deployment, Database Management, REST API, NOSQL, GraphQL
+
+## GitHub Stats
+[![Ruth's GitHub stats](https://github-readme-stats.vercel.app/api?username=expired-pineapple&show_icons=true&bg_color=00000000)](https://github-readme-streak-stats.herokuapp.com/?user=expired-pineapple)
 
 
 
