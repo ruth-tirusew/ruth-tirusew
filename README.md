@@ -25,7 +25,7 @@ Application Deployment, Database Management, REST API, NOSQL, GraphQL
 
 ## GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=expired-pineapple" alt="expired-pineapple" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruth-tirusew" alt="ruth-tirusew?" /></p>
 
 
 
