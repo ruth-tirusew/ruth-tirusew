@@ -7,7 +7,10 @@
 
 ### Stack
 
-**Languages:** Python · Golang · Java · 
+**Languages:** Python · Golang · Java
+
 **Frameworks:** FastAPI · Django · Springboot · Next.js · Celery
+
 **Data:** PostgreSQL · MongoDB · Clickhouse
+
 **Tools:** Prefect · Airflow · Ansible 
